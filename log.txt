@@ -1,0 +1,3 @@
+使用gen.bat生成test.py后，连着.cxx一起编译完毕
+将test.py复制到生成的.pyd去
+使用
